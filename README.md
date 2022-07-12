@@ -1,0 +1,1 @@
+Este es un ejemplo práctico de Django, el framework de Python utilizado para crear aplicaciones web backend. Consiste en crear un sitio web generador de contraseñas usando Django y bibliotecas de Python. Ademas, se utiliza virtualenv como entorno virtual y bootstrap como Framework de CSS para agregar estilo.
